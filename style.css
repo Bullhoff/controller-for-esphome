@@ -1,0 +1,17 @@
+
+body{
+	background-color: rgb(88, 88, 88);
+	/* border: 5px solid rgb(200, 200, 200); */
+	overflow: auto;
+	height: 100%;
+	white-space:nowrap;
+}
+
+button{
+	background-color: rgb(0, 0, 0);
+	color: white;
+}
+#btnSaveSettings{
+	background-color: rgb(116, 116, 116);
+}
+
